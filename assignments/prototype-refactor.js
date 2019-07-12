@@ -101,7 +101,7 @@ const mage = new Humanoid({
       width: 2,
       height: 2,
     },
-    healthPoints: 15,
+    healthPoints: 16,
     name: 'Sir Galahad',
     team: 'The Round Table',
     weapons: [
@@ -118,7 +118,7 @@ const mage = new Humanoid({
       width: 2,
       height: 4,
     },
-    healthPoints: 10,
+    healthPoints: 8,
     name: 'Lilith',
     team: 'Forest Empire',
     weapons: [
